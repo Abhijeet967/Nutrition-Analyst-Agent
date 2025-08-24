@@ -1,0 +1,3 @@
+uagents 
+uagents_adapter 
+python-dotenv
